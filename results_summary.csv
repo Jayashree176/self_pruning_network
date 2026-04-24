@@ -1,0 +1,4 @@
+lambda,test_accuracy,sparsity_level_percent,active_connections,total_connections
+1.00e-06,56.65,38.28,1072752,1737984
+5.00e-06,55.93,78.69,370413,1737984
+1.00e-05,54.72,88.17,205685,1737984
