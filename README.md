@@ -28,6 +28,6 @@ Connections that do not help enough are pushed toward smaller sigmoid values, wh
 
 ## Best Model Gate Distribution
 
-![Gate distribution](artifacts/best_model_gate_distribution.png)
+![Gate distribution](best_model_gate_distribution.png)
 
 A successful pruning run should show many gates clustered near zero, while the remaining useful connections stay noticeably above the pruning threshold.
